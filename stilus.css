@@ -1,0 +1,78 @@
+﻿body
+{
+    background-color: lightgrey;
+}
+#oldalsav
+{
+    float: left;
+}
+#kep
+{
+    width: 400px;
+    height: auto;
+}
+#menusor
+{
+    width: 380px;
+    color: white;
+    background-color: #616161;
+    padding: 10px;
+}
+#menusor a
+{
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+}
+#menusor hr
+{
+    color: black;
+    height: 1px;
+    border: 1px solid black;
+}
+#tartalom
+{
+    float: right;
+    width: 1024px;
+    height: 512px;
+    background-color: lightgrey;
+    margin-right: 200px;
+}
+#golyok
+{
+    display: inline-block;
+}
+.golyo
+{
+    width: 100px;
+    height: auto;
+}
+#cimsor
+{
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+}
+.alcimek
+{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+.helyezes
+{
+    float: left;
+    font-size: 48px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+}
+.darabszam
+{
+    float: right;
+    font-size: 36px;
+}
+.egymasmelle
+{
+    display: inline-block;
+}
